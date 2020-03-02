@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  2 MAR 2020 17:13
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  2 MAR 2020 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,56 +63,56 @@ File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 (./mthesis2020_kurachi.aux)
 \openout1 = `mthesis2020_kurachi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 342.
-LaTeX Font Info:    ... okay on input line 342.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 325.
+LaTeX Font Info:    ... okay on input line 325.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 346.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 329.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 346.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 346.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 346.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 329.
  [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 347.
+(Font)              <12> on input line 330.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 347.
+(Font)              <8> on input line 330.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 330.
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 348.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 331.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 331.
 
 
 (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 348.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 331.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 348.
+(Font)              <7> on input line 331.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 348.
+(Font)              <5> on input line 331.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 348.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 331.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 348.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 331.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 348.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 331.
  [1] [2]
 (./mthesis2020_kurachi.toc)
 \tf@toc=\write3
@@ -129,12 +129,12 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 
  [4]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 378.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 361.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 378.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 361.
 
 
-LaTeX Warning: Citation `alex_nips12' on page 1 undefined on input line 389.
+LaTeX Warning: Citation `alex_nips12' on page 1 undefined on input line 372.
 
 [1] [2] [3] [4] [5] [6] [7]
 No file mthesis2020_kurachi.bbl.
@@ -144,12 +144,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 789 strings out of 493230
- 9679 string characters out of 6147555
- 78952 words of memory out of 5000000
- 4808 multiletter control sequences out of 15000+600000
- 14232 words of font info for 55 fonts, out of 8000000 for 9000
+ 791 strings out of 493230
+ 9700 string characters out of 6147555
+ 81280 words of memory out of 5000000
+ 4809 multiletter control sequences out of 15000+600000
+ 14539 words of font info for 56 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 26i,8n,20p,265b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,20p,1410b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis2020_kurachi.dvi (14 pages, 27380 bytes).
+Output written on mthesis2020_kurachi.dvi (14 pages, 28600 bytes).

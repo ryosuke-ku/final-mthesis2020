@@ -27,7 +27,7 @@
 %
 % Student Number
 %
-\studentnumber{123456}
+\studentnumber{1811098}
 %
 % 修士論文 か 課題研究 かの選択
 %
@@ -48,32 +48,30 @@
 %
 % 日本語題目 (in LaTeX)
 %
-\title{太陽と月を利用した$\pi$の低速計算アルゴリズムに関する理論的研究}
+\title{ソースコードの類似性に基づいたテストコード\\自動推薦ツールSuiteRec}
 %
 % 日本語題目 (in plain text)
 %
 %   注: (in LaTeX)と同じ場合は指定する必要なし。
 %       この情報は修士論文/課題研究には現れませんが、管理のために必要です。
 %
-\ptitle{太陽と月を利用したpiの低速計算アルゴリズムに関する理論的研究}
+\ptitle{ソースコードの類似性に基づいたテストコード\\自動推薦ツールSuiteRec}
 %
 % 英語題目 (in LaTeX)
 %
-\etitle{Theoretical Studies on Low-Speed Calculation Algorithms of $\pi$ \\
-Utilizing the Sun and the Moon}
+\etitle{Automatic Test Suite Recommendation System based on Code Clone Detection}
 %
 % 英語題目 (in plain text)
 %
 %   注: (in LaTeX)と同じ場合は指定する必要なし。
 %       この情報は修士論文/課題研究には現れませんが、管理のために必要です。
 %
-\eptitle{Theoretical Studies on Low-Speed Calculation Algorithms of pi \\
-Utilizing the Sun and the Moon}
+\eptitle{Automatic Test Suite Recommendation System based on Code Clone Detection}
 %
 % 日本語氏名 (in LaTeX)
 %   （姓と名の間に空白を入れて下さい）
 %
-\author{先端 太郎}
+\author{倉地 亮介}
 %
 % 日本語氏名 (in plain text)
 %
@@ -85,7 +83,7 @@ Utilizing the Sun and the Moon}
 % 欧文氏名 (in LaTeX)
 %   （first name, last name の順に記入し、先頭文字のみを大文字にする。）
 %
-\eauthor{Hanako Sentan}
+\eauthor{Ryosuke Kurachi}
 % 別の例: \eauthor{Kurt G\"{o}del}
 %
 %
@@ -100,9 +98,9 @@ Utilizing the Sun and the Moon}
 %
 % 論文提出年月日
 %
-\esyear{202X}
-\jsyear{令和XX}
-\smonth{2}
+\esyear{2020}
+\jsyear{令和2}
+\smonth{3}
 \sday{20}
 %
 % 専攻の選択
@@ -122,10 +120,10 @@ Utilizing the Sun and the Moon}
 %学外審査委員は所属を明記する。しかし、理由により所属を記載できない場合は任意で構いません。
 %
 % ４人の場合
-\cmembers{○○ ○○ 教授}{（主指導教員，情報科学領域）}
-         {○○ ○○ 教授}{（副指導教員，情報科学領域）}
-         {○○ ○○ 准教授}{（副指導教員，情報科学領域）}
-         {○○ ○○ 准教授}{（△△大学）}
+\cmembers{飯田 元 教授}{（主指導教員，情報科学領域）}
+         {井上 美智子 教授}{（副指導教員，情報科学領域）}
+         {市川 昊平 准教授}{（副指導教員，情報科学領域）}
+         {高橋 慧智 助教}{（副指導教員，情報科学領域）}
 %
 % ３人の場合
 %\cmembers{○○ ○○ 教授}{（主指導教員）}
@@ -140,11 +138,11 @@ Utilizing the Sun and the Moon}
 %          {}{}
 %
 % ５人目の宣言
-%\addcmembers{55 55 准教授}{（□□大学）}
-%            {}{}
-%            {}{}
-%            {}{}
-%
+\addcmembers{崔 恩瀞 助教}{（京都工芸繊維大学）}
+            {}{}
+            {}{}
+            {}{}
+
 % ５〜６人目の宣言
 %\addcmembers{55 55 准教授}{（□□大学）}
 %            {66 66 准教授}{（□□大学）}
@@ -219,47 +217,32 @@ Utilizing the Sun and the Moon}
 %
 % キーワード５〜６個 (in LaTeX)
 %
-\keywords{$\pi$, 天文学, 数学, 計算機, アルゴリズム}
+\keywords{コードクローン検出，推薦システム，ソフトウェアテスト，テストスメル，単体テスト}
 %
 % キーワード５〜６個 (in plain text)
 %
 %   注: (in LaTeX)と同じ場合は記入する必要なし。
 %       この情報は修士論文/課題研究には現れませんが、管理のために必要です。
 %
-\pkeywords{pi, 天文学, 数学, 計算機, アルゴリズム}
+\pkeywords{コードクローン検出，推薦システム，ソフトウェアテスト，テストスメル，単体テスト}
 %
 % 5 or 6 Keywords (in LaTeX)
 %
-\ekeywords{$\pi$, astronomy, mathematics, computer, algorithm}
+\ekeywords{clone detection, recommendation system, software testing, test smell, unit test}
 %
 % 5 or 6 Keywords (in plain text)
 %
 %   注: (in LaTeX)と同じ場合は記入する必要なし。
 %       この情報は修士論文/課題研究には現れませんが、管理のために必要です。
 %
-\epkeywords{pi, astronomy, mathematics, computer, algorithm}
+\epkeywords{clone detection, recommendation system, software testing, test smell, unit test}
 %
 % 内容梗概 (in LaTeX)
 %
 %   注: 行の先頭が\\で始まらないようにすること。
 %
 \abstract{
-人類がこの地上に現われて以来、$\pi$の計算には多くの関心が払われてきた。
-
-本論文では、太陽と月を利用して$\pi$を低速に計算するための
-画期的なアルゴリズムを与える。
-
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
+ソフトウェアの品質確保の要と言えるソフトウェアテストを支援することは，重要である．これまでにテスト工程を支援するために，様々な自動生成技術が提案されてきた．しかし，既存技術によって自動生成されたテストコードは，テスト対象コードの作成経緯や意図に基づいて生成されていないので，開発者の保守作業を困難にさせる．この課題の解決方法として，既存テストの再利用が有効であると考えられる．本研究では，オープンソースソフトウェアに存在する品質が高いテストコードを推薦するツール{\sf SuiteRec}を提案する．推薦手法のアイディアは，類似するソースコード間でテストコードを再利用することである．開発者からの入力コード片に対して類似コード片を検出し，その類似コード片に対するテストスイートを推薦する．さらに，テストコードの良くない実装を表す指標であるテストスメルを開発者に提示し，より品質の高いテストスイートを推薦できるように推薦順位を並び替える．{\sf SuiteRec}の有用性を評価した被験者実験では，{\sf SuiteRec}を使用した場合とそうでない場合で，テスト作成をどの程度支援できるかを定量的および定性的に評価した．その結果，{\sf SuiteRec}を利用した場合，(1) 条件分岐が多いプログラムのテストコードを作成する際にコードカバレッジの向上に効果的であること，(2) 作成したテストコードはテストスメルの数が少なく品質が高いこと，(3) 開発者はテストコード作成作業を容易だと認識し，自身で作成したテストコードに自信が持てることが分かった．また，{\sf SuiteRec}は開発者が参考にしたいテストスイートを上位に推薦できることを確認した．
 }
 %
 % 内容梗概 (in plain text)

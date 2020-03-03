@@ -1,47 +1,44 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  2 MAR 2020 17:43
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  2 MAR 2020 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **mthesis2020_kurachi.tex
 (./mthesis2020_kurachi.tex
 pLaTeX2e <2019-04-06> (based on LaTeX2e <2018-12-01>)
-(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(c:/texlive/2019/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(c:/texlive/2019/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2019/04/02 v1.8b Standard pLaTeX class
+\c@@paper=\count83
+(c:/texlive/2019/texmf-dist/tex/platex/base/jsize12.clo
+File: jsize12.clo 2019/04/02 v1.8b Standard pLaTeX file (size option)
 )
-\c@part=\count83
-\c@section=\count84
-\c@subsection=\count85
-\c@subsubsection=\count86
-\c@paragraph=\count87
-\c@subparagraph=\count88
-\c@figure=\count89
-\c@table=\count90
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen118
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
 )
-(c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-) (./naist-jmthesis.sty
-Master's Thesis / Master's Report Style for Division of Information Science, Sc
-ience and Technology, NAIST
-(./naist-mcommon.sty
-\nendo=\count91
-\curmin=\count92
-\hour=\count93
-\onehour=\count94
-\curhour=\count95
-))
+(c:/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks15
 )
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -52,104 +49,390 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2018/03/09 v2.0h ascmac wrapper (community edition) 
+
+(c:/texlive/2019/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2018/03/09 v2.0h ascmac package (community edition) 
+\@savetbaselineshift=\dimen123
+\@saveybaselineshift=\dimen124
+\scb@x=\box43
+\scscb@x=\box44
+\@bw=\dimen125
+\@nbox=\box45
+\@nbody=\box46
+\@scw=\dimen126
+\ascmac@hoboxa=\box47
+\ascmac@hoboxb=\box48
+\@itemh=\dimen127
+\@iboxpos=\toks16
+\@iboxstr=\box49
+\@bwsp=\box50
+\@@bwsp=\box51
+\@bcal=\count93
+\shaderule=\dimen128
+))
+(c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
 
 (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
-))
-\Gin@req@height=\dimen119
-\Gin@req@width=\dimen120
 )
-(./mthesis2020_kurachi.aux)
+(c:/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+(c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen129
+\ar@mcellbox=\box52
+\extrarowheight=\dimen130
+\NC@list=\toks17
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box53
+)
+\everycr=\toks18
+\minrowclearance=\skip45
+)
+\rownum=\count94
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (./eclbkbox.sty
+\bk@bxb=\box54
+\bk@bxa=\box55
+\bk@lcnt=\count95
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen131
+))
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen132
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen133
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks20
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks21
+\eqnshift@=\dimen134
+\alignsep@=\dimen135
+\tagshift@=\dimen136
+\tagwidth@=\dimen137
+\totwidth@=\dimen138
+\lineht@=\dimen139
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+) (./naist-jmthesis.sty
+Master's Thesis / Master's Report Style for Division of Information Science, Sc
+ience and Technology, NAIST
+(./naist-mcommon.sty
+\nendo=\count108
+\curmin=\count109
+\hour=\count110
+\onehour=\count111
+\curhour=\count112
+)) (./mthesis2020_kurachi.aux)
 \openout1 = `mthesis2020_kurachi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 325.
-LaTeX Font Info:    ... okay on input line 325.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 329.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 289.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 329.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 289.
  [1
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 330.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 330.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 330.
- [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 331.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 331.
+] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 291.
 
 
 (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 331.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 331.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 331.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 291.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 331.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 291.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 331.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 291.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 331.
- [1] [2]
-(./mthesis2020_kurachi.toc)
-\tf@toc=\write3
-\openout3 = `mthesis2020_kurachi.toc'.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 291.
+ [1] [2] [3] [4]
+(./mthesis2020_kurachi.toc [5])
+\tf@toc=\write4
+\openout4 = `mthesis2020_kurachi.toc'.
 
- [3] (./mthesis2020_kurachi.lof)
-\tf@lof=\write4
-\openout4 = `mthesis2020_kurachi.lof'.
+ [6] (./mthesis2020_kurachi.lof)
+\tf@lof=\write5
+\openout5 = `mthesis2020_kurachi.lof'.
 
 
 (./mthesis2020_kurachi.lot)
-\tf@lot=\write5
-\openout5 = `mthesis2020_kurachi.lot'.
+\tf@lot=\write6
+\openout6 = `mthesis2020_kurachi.lot'.
 
- [4]
+ [7] [1] [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 361.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 320.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 361.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 320.
+ [3] [4]
+File: image/test-task.pdf Graphic file (type pdf)
+<image/test-task.pdf>
+
+Overfull \hbox (6.44142pt too wide) in paragraph at lines 364--371
+[][] 
+ []
+
+[5] [6] [7]
+File: image/AR.pdf Graphic file (type pdf)
+<image/AR.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 416--417
+ [] 
+ []
+
+File: image/DT.pdf Graphic file (type pdf)
+<image/DT.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 428--429
+ [] 
+ []
 
 
-LaTeX Warning: Citation `alex_nips12' on page 1 undefined on input line 372.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1] [2] [3] [4] [5] [6] [7]
-No file mthesis2020_kurachi.bbl.
-[8] (./mthesis2020_kurachi.aux)
+[8] [9]
+File: image/CTL.pdf Graphic file (type pdf)
+<image/CTL.pdf>
 
-LaTeX Warning: There were undefined references.
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 452--453
+ [] 
+ []
+
+File: image/ET.pdf Graphic file (type pdf)
+<image/ET.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 460--461
+ [] 
+ []
+
+File: image/EH.pdf Graphic file (type pdf)
+<image/EH.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 468--469
+ [] 
+ []
+
+File: image/MG.pdf Graphic file (type pdf)
+<image/MG.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 476--477
+ [] 
+ []
+
+Excluding 'comment' comment. [10] [11] [12]
+File: image/SBST.pdf Graphic file (type pdf)
+<image/SBST.pdf>
+ [13] [14]
+File: image/SuiteRec-outline.pdf Graphic file (type pdf)
+<image/SuiteRec-outline.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 542--543
+ [] 
+ []
+
+[15] [16] [17] [18]
+File: image/mapping.pdf Graphic file (type pdf)
+<image/mapping.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 602--603
+ [] 
+ []
+
+[19]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 627.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 627.
+
+[20]
+File: image/SuiteRec.pdf Graphic file (type pdf)
+<image/SuiteRec.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 640--641
+ [] 
+ []
+
+[21] [22] [23]
+Overfull \hbox (21.23753pt too wide) in paragraph at lines 680--681
+[]
+ []
+
+[24]
+Overfull \hbox (44.3307pt too wide) in paragraph at lines 682--683
+[]
+ []
+
+[25]
+File: image/E1.pdf Graphic file (type pdf)
+<image/E1.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: image/E2.pdf Graphic file (type pdf)
+<image/E2.pdf>
+[26]
+File: image/E3.pdf Graphic file (type pdf)
+<image/E3.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 760--761
+ [] 
+ []
+
+[27] [28] [29] [30] [31]
+File: image/C0.pdf Graphic file (type pdf)
+<image/C0.pdf>
+File: image/C1.pdf Graphic file (type pdf)
+<image/C1.pdf>
+ [32] [33]
+File: image/time.pdf Graphic file (type pdf)
+<image/time.pdf>
+ [34] [35]
+File: image/smells.pdf Graphic file (type pdf)
+<image/smells.pdf>
+ [36]
+File: image/suiterec-qa.pdf Graphic file (type pdf)
+<image/suiterec-qa.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 890--891
+ [] 
+ []
+
+[37] [38]
+Overfull \hbox (7.7421pt too wide) in paragraph at lines 909--910
+[]
+ []
+
+[39]
+File: image/taskA.pdf Graphic file (type pdf)
+<image/taskA.pdf>
+ [40]
+File: image/taskB.pdf Graphic file (type pdf)
+<image/taskB.pdf>
+ [41] [42] Excluding 'comment' comment.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Excluding 'comment' comment.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43] [44] [45] [46] [47] [48] [49] [50] [51] [52] (./mthesis2020_kurachi.bbl
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 7.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 7.
+
+[53] [54] [55] [56]) Excluding 'comment' comment. [57]
+(./mthesis2020_kurachi.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 791 strings out of 493230
- 9700 string characters out of 6147555
- 81280 words of memory out of 5000000
- 4809 multiletter control sequences out of 15000+600000
- 14539 words of font info for 56 fonts, out of 8000000 for 9000
+ 2424 strings out of 493230
+ 28723 string characters out of 6147555
+ 116368 words of memory out of 5000000
+ 6358 multiletter control sequences out of 15000+600000
+ 17071 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 26i,8n,20p,1410b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,35p,1659b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis2020_kurachi.dvi (14 pages, 28600 bytes).
+Output written on mthesis2020_kurachi.dvi (66 pages, 183352 bytes).
